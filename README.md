@@ -1,4 +1,6 @@
 # Bitcoin Trading Strategy Project
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeongjoo1217-code/Deep-learning-GIT/blob/main/my_bitcoin_strategy.ipynb)
+
 
 # 나만의 비트코인 딥러닝 트레이딩 모델 (Advanced Strategy)
 
