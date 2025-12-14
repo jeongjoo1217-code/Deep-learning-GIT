@@ -1,6 +1,6 @@
 # Bitcoin Trading Strategy Project
 
-# 🚀 나만의 비트코인 딥러닝 트레이딩 모델 (Advanced Strategy)
+# 나만의 비트코인 딥러닝 트레이딩 모델 (Advanced Strategy)
 
 ## 📝 학생 정보
 - **이름**: 김정주
